@@ -8,5 +8,5 @@ INDIAN TEAM
 1. Dhoni
 2. Virat
 3. Rohith Sharma
-* Suresh Raina
-* Kapil Dev 
+   * Suresh Raina
+   * Kapil Dev 
