@@ -1,3 +1,3 @@
 # Sai Sushma Yallasiri
 I came from Guntur city in Andhra Pradesh state in INDIA. I have electrical brackground. I also worked as software engineer for 3 years.
-![Here is my picture](sushma_id.jpeg)
+![Here is my picture](Downloads/sushma_id.jpeg)
