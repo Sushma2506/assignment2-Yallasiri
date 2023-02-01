@@ -13,8 +13,9 @@ INDIAN TEAM
 
 **[Here you go to my info](AboutMe.md)**
 
-Best Countries to Vist
+Best Countries to Visit
 ---
+The below places are few best countries to visit because of there nature built and man made beauties.
 | Country |Travel Reason | Days|
 |-------- | :---------------:|  -----
 |INDIA | piligrimage center with all types of attraction | 10 |
