@@ -12,3 +12,12 @@ INDIAN TEAM
    * Kapil Dev 
 
 **[Here you go to my info](AboutMe.md)**
+
+Best Countries to Vist
+---
+| Country |Travel Reason | Days|
+|-------- | :---------------:|  -----
+|INDIA | piligrimage center with all types of attraction | 10 |
+| UAE | Largest mall Burj Kalifa | 5 |
+| Landon | Clear beach and london eye | 7 |
+| Paris | Eiffel tower | 7 |
