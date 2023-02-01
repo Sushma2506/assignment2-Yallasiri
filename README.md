@@ -21,3 +21,9 @@ Best Countries to Vist
 | UAE | Largest mall Burj Kalifa | 5 |
 | Landon | Clear beach and london eye | 7 |
 | Paris | Eiffel tower | 7 |
+
+Funny quotes 
+---
+> One day.... i'm gonna make onions cry!!!
+
+> Friends are God's way of apologizing to us for our families. 
